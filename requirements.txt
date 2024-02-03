@@ -1,0 +1,8 @@
+Flask==3.0.1
+psutil
+speedtest
+http.server
+socketserver
+json
+threading
+time
